@@ -10,6 +10,7 @@ sidebar_position: 4
 
 - If-else condition is used to check whether the statement executed is true or false.
 - If statement execute is true then if condition will be executed if false then else statement will be executed.
+- The block of code in If-else statement is called a control structure.
 
 
 **Syntax**
@@ -48,7 +49,7 @@ else
 
 ```javascript
 
-// //If your country's population is greater that 33 million, log a string like this to the
+// If your country's population is greater that 33 million, log a string like this to the
 // console: 'Portugal's population is above average'. Otherwise, log a string like
 // 'Portugal's population is 22 million below average' (the 22 is the average of 33
 // minus the country's population)
