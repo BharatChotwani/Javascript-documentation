@@ -27,8 +27,8 @@ Let's take example:
 const inputYear = 1991;
 console.log(String(inputYear));
 
-// input year which is variable declared in string by using 
-// Number() it converted to number datatype.
+// input year which is variable declared in number by using 
+// Number() it converted to string datatype.
 ```
 
 
